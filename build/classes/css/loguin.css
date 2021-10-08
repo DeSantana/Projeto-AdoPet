@@ -1,0 +1,62 @@
+body{
+    width: 100%;
+    background-color: rgb(219, 219, 219);
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    
+    }
+.catedog {
+
+height: 100vh;
+background: white;
+
+
+}
+.catedog img{
+    height: 100vh;
+    width: 50vw;
+    
+}
+
+.conteudo   {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+margin-left:  230px;
+
+}
+.conteudo h1{
+    color: #FFC107;
+    font-size: 24px;
+    
+} 
+.formulario{
+    background-color: white;
+   width: 400px;
+   border-radius: 10px;
+   font-weight: bolder;
+   padding: 5%;
+}
+.formulario input {
+    width: 300px
+    ;
+}
+button {
+    width:100px;
+    border-radius: 5px;
+    margin-top: 40px;
+    background-color: #FFC107;
+    font-weight: bolder;
+ margin-left: 105px;
+}
+form {
+margin-left: 30px;
+margin-top: 20px;
+
+}
+.link{
+    color:#FFC107;
+}
